@@ -2,6 +2,10 @@
 
 > **UAS — Sistem Mikrokontroller | Semester 6**  
 > Sistem pemantauan helm cerdas berbasis ESP32 dengan deteksi kecelakaan real-time menggunakan FreeRTOS dan konektivitas MQTT.
+> <br></br>
+> **Anggota Kelompok**
+> 1. Perdi Ruhiyat - 23552011207
+> 2. Syaiful Fathur Rozaq - 2355201182
 
 ---
 
