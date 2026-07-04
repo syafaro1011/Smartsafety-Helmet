@@ -30,10 +30,10 @@ Preferences preferences;
 String wifiSsid;
 String wifiPassword;
 
-const char* MQTT_HOST = "perdiruhiyat.cloud.shiftr.io";
+const char* MQTT_HOST = "xxxxxxxx.cloud.shiftr.io";
 const uint16_t MQTT_PORT = 1883;
-const char* MQTT_USER = "perdiruhiyat";
-const char* MQTT_PASS = "xSwW3LY1GZLlfLQ6";
+const char* MQTT_USER = "xxxxxxxx";
+const char* MQTT_PASS = "xxxxxxxxx";
 
 const char* DEVICE_ID = "SHM-001";
 
