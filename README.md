@@ -5,7 +5,7 @@
 > <br></br>
 > **Anggota Kelompok**
 > 1. Perdi Ruhiyat - 23552011207
-> 2. Syaiful Fathur Rozaq - 2355201182
+> 2. Syaiful Fathur Rozaq - 23552011282
 
 ---
 
