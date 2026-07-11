@@ -55,9 +55,7 @@ Apabila terdeteksi benturan keras atau kemiringan ekstrem diikuti kondisi diam (
 
 ## 🏗️ Arsitektur Sistem
 
-```
 ![Arsitektur Sistem](https://cdn.discordapp.com/attachments/1099859505891790959/1525345718062026962/ars.png?ex=6a530c66&is=6a51bae6&hm=d55d1fba53e235e49422d53f5fc26fb548bac12290ffce05c36db6d927ee1565&)
-```
 
 ---
 
