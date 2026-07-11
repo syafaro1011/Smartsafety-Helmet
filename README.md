@@ -194,29 +194,7 @@ Sistem menggunakan **4 FreeRTOS Task** yang didistribusikan pada 2 core ESP32:
 
 Sistem menerapkan state machine dengan 4 status:
 
-```
-                    ┌──────────┐
-          ┌─────────│  NORMAL  │─────────┐
-          │         └──────────┘         │
-          │              │               │
-    tilt ≥ 55°      tilt ≥ 70°      impact ≥ 2.5G
-          │           OR impact        AND diam
-          ▼           ≥ 2.5G           4 detik
-    ┌──────────┐         │               │
-    │ WARNING  │         ▼               ▼
-    └──────────┘   ┌───────────────┐  ┌──────────────┐
-                   │ FALL_DETECTED │  │ ACCIDENT_RISK│
-                   └───────┬───────┘  └──────────────┘
-                           │
-                    diam ≥ 4 detik
-                   (accel ≈ 1G, gyro
-                    ≤ 12 dps)
-                           │
-                           ▼
-                   ┌──────────────┐
-                   │ACCIDENT_RISK │
-                   └──────────────┘
-```
+![logika Deteksi](https://cdn.discordapp.com/attachments/1099859505891790959/1525361534304260186/loki.png?ex=6a531b21&is=6a51c9a1&hm=797dd0ab5e641a8892bfb2f09d605458f514d962d60a4399ec943900941dc009&)
 
 ### Kondisi Deteksi Detail
 
