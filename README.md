@@ -25,6 +25,7 @@
 - [Format Payload Telemetry](#-format-payload-telemetry)
 - [Cara Upload & Penggunaan](#-cara-upload--penggunaan)
 - [Troubleshooting](#-troubleshooting)
+- [Demo Prototype](#demo-prototype)
 
 ---
 
@@ -403,4 +404,7 @@ UAS-Helm/
 
 ---
 
-_Dokumentasi ini dibuat untuk keperluan UAS Sistem Mikrokontroller._
+##  Demo Prototype
+[![Demo - Smart Helmet Monitoring with ESP32](https://cdn-icons-png.flaticon.com/128/3670/3670147.png)](https://youtu.be/TesJzKEsMRk?si=Y5mwEJAeZnArwNwn)
+
+---
